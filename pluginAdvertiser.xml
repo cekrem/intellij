@@ -11,6 +11,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*._ske.dbbin">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.aab">
           <value>
             <plugin>
@@ -53,6 +61,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ani">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -125,6 +141,14 @@
               <option name="myPluginId" value="DevKit" />
               <option name="myPluginName" value="Plugin DevKit" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dbbin">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -233,6 +257,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.fnt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -578,12 +610,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.kra">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.kt">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ktree">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -650,12 +698,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.mp3">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ogg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -710,6 +774,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -893,6 +965,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.scml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.scon">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sh">
           <value>
             <plugin>
@@ -935,6 +1023,14 @@
               <option name="myPluginId" value="org.intellij.scala" />
               <option name="myPluginName" value="Scala" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.skel">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -983,6 +1079,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.swf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tasty">
           <value>
             <plugin>
@@ -1028,12 +1132,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tmx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
@@ -1070,6 +1190,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wav">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
+              <option name="myPluginName" value="Korge" />
             </plugin>
           </value>
         </entry>
