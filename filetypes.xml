@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="apple-app-site-association-prod" type="JSON" />
+      <mapping pattern="apple-app-site-association-uat" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="ad_auth.go" type="PLAIN_TEXT" />
+      <mapping pattern="certFromTest" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
