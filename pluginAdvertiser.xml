@@ -46,15 +46,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.alloc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.android_data_binding">
           <value>
             <plugin>
@@ -144,12 +135,35 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.config">
+        <entry key="*.clj">
           <value>
             <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" value="Cursive" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cljc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" value="Cursive" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cljs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" value="Cursive" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cljx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" value="Cursive" />
             </plugin>
           </value>
         </entry>
@@ -184,7 +198,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -248,6 +261,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.edn">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" value="Cursive" />
             </plugin>
           </value>
         </entry>
@@ -385,15 +406,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.heapprofd">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.hgignore">
           <value>
             <plugin>
@@ -408,15 +420,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.hprof">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -597,7 +600,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -615,7 +617,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -624,7 +625,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -633,7 +633,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -642,7 +641,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -659,7 +657,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -676,7 +673,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -813,29 +809,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.perfetto-trace">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.pex">
           <value>
             <plugin>
               <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
               <option name="myPluginName" value="Korge" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pftrace">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1462,15 +1440,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="lombok.config">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="maven.config">
           <value>
             <plugin>
@@ -1552,11 +1521,6 @@
                       <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
                     </value>
                   </entry>
-                  <entry key="AppEngineRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="App Engine DevAppServer" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
-                    </value>
-                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
@@ -1567,9 +1531,19 @@
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
-                  <entry key="ComposePreviewRunConfiguration">
+                  <entry key="ClojureREPL">
                     <value>
-                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Clojure REPL" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
+                    </value>
+                  </entry>
+                  <entry key="ClojureScriptRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Clojure Application" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
+                    </value>
+                  </entry>
+                  <entry key="ClojureTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="clojure.test" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -1610,6 +1584,11 @@
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="LeiningenRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Leiningen" pluginName="Cursive" pluginId="com.cursiveclojure.cursive" />
                     </value>
                   </entry>
                   <entry key="MUnitRunConfiguration">
@@ -1697,11 +1676,6 @@
                       <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
-                  <entry key="app-engine-gradle">
-                    <value>
-                      <FeaturePluginData displayName="App Engine Gradle" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
-                    </value>
-                  </entry>
                   <entry key="java-gradle">
                     <value>
                       <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -1729,7 +1703,7 @@
                 <map>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="Android Application" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="jar">
