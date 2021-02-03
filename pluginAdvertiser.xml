@@ -46,6 +46,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.alloc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.android_data_binding">
           <value>
             <plugin>
@@ -131,6 +140,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -367,6 +385,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.heapprofd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.hgignore">
           <value>
             <plugin>
@@ -381,6 +408,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hprof">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -777,11 +813,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.perfetto-trace">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pex">
           <value>
             <plugin>
               <option name="myPluginId" value="com.soywiz.korge.korge-intellij-plugin" />
               <option name="myPluginName" value="Korge" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pftrace">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1408,6 +1462,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="lombok.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="maven.config">
           <value>
             <plugin>
@@ -1489,6 +1552,11 @@
                       <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
                     </value>
                   </entry>
+                  <entry key="AppEngineRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="App Engine DevAppServer" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
@@ -1497,6 +1565,11 @@
                   <entry key="BSP_TEST_RUN_CONFIGURATION">
                     <value>
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ComposePreviewRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -1624,6 +1697,11 @@
                       <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
+                  <entry key="app-engine-gradle">
+                    <value>
+                      <FeaturePluginData displayName="App Engine Gradle" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
+                    </value>
+                  </entry>
                   <entry key="java-gradle">
                     <value>
                       <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -1651,7 +1729,7 @@
                 <map>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android Application" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="jar">
