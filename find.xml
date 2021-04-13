@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../features/vipps_login/src/main/java/com/dnb/vipps/android/login/network/model/VerifyExternalDataResponse.kt [vipps_root.features.vipps_login]'" />
+    <option name="defaultScopeName" value="File '.../features/vipps_login/src/main/java/com/dnb/vipps/android/login/network/model/VerifyExternalDataResponse.kt [vipps_root.features.vipps_login]'" />
+    <option name="SEARCH_SCOPE" value="File '.../features/vipps_login/src/main/java/com/dnb/vipps/android/login/network/model/VerifyExternalDataResponse.kt [vipps_root.features.vipps_login]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.go</mask>
