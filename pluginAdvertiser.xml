@@ -1686,6 +1686,11 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="ELM_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Elm Test" pluginName="Elm" pluginId="org.elm.klazuka" />
+                    </value>
+                  </entry>
                   <entry key="GradleKonanAppRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Kotlin/Native Application" pluginName="Kotlin Multiplatform Mobile" pluginId="com.jetbrains.kmm" />
