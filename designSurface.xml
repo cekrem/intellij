@@ -54,6 +54,7 @@
         <entry key="features/vipps_login/src/main/res/layout/fragment_vipps_login_concluded_info.xml" value="0.1" />
         <entry key="middleware/bankid/src/main/res/layout/activity_bank_id_verification.xml" value="0.1" />
         <entry key="middleware/newconsent/src/main/res/layout/fragment_new_consent_prompt.xml" value="0.1" />
+        <entry key="middleware/newconsent/src/main/res/layout/new_consent_scope_item.xml" value="0.28888888888888886" />
         <entry key="middleware/newconsent/src/main/res/menu/menu_new_consent_cancel.xml" value="0.15" />
         <entry key="middleware/onfido/src/main/res/layout/fragment_onfido_init.xml" value="0.1" />
         <entry key="middleware/profile/src/main/res/layout/activity_add_bank_account.xml" value="0.375" />
