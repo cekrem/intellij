@@ -24,7 +24,15 @@
         <entry key="app/src/main/res/layout/score_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/menu/navdrawer_menu.xml" value="0.20277777777777778" />
         <entry key="app/src/main/res/menu/options_menu.xml" value="0.20277777777777778" />
+        <entry key="core/dna/src/main/res/drawable-xhdpi/img_vipps_login_intro.xml" value="0.1" />
+        <entry key="core/dna/src/main/res/drawable/background_button_large.xml" value="0.1" />
+        <entry key="core/dna/src/main/res/drawable/ic_add_24.xml" value="0.1" />
         <entry key="core/dna/src/main/res/drawable/ic_scan_16.xml" value="0.22708333333333333" />
+        <entry key="core/dna/src/main/res/drawable/img_ice_cream_cone_light.xml" value="0.1" />
+        <entry key="core/dna/src/main/res/drawable/img_jumping_man.xml" value="0.1" />
+        <entry key="core/dna/src/main/res/drawable/img_phone_smile.xml" value="0.1" />
+        <entry key="core/dna/src/main/res/drawable/img_qr_code_warning.xml" value="0.1" />
+        <entry key="core/dna/src/main/res/drawable/progressbar_rounded_red.xml" value="0.1" />
         <entry key="core/ui_components/amount-summary-view/src/main/res/drawable/amount_summary_status_icon.xml" value="0.3787037037037037" />
         <entry key="core/ui_components/info_card/src/main/res/layout/view_info_card.xml" value="0.221875" />
         <entry key="core/ui_components/loading_indicator/src/main/res/drawable/background_text_view_loader.xml" value="0.3787037037037037" />
@@ -42,14 +50,17 @@
         <entry key="features/gifting/src/main/res/layout/fragment_gifting_pick_wrapping.xml" value="0.1" />
         <entry key="features/strike/src/main/res/layout/activity_strike.xml" value="0.3319746376811594" />
         <entry key="features/strike/src/main/res/layout/dialog_cancel_registration.xml" value="0.3319746376811594" />
-        <entry key="features/vipps_login/src/main/res/layout/fragment_vipps_login_completed.xml" value="0.22447916666666667" />
+        <entry key="features/vipps_login/src/main/res/layout/fragment_vipps_login_completed.xml" value="0.1" />
+        <entry key="features/vipps_login/src/main/res/layout/fragment_vipps_login_concluded_info.xml" value="0.1" />
         <entry key="middleware/bankid/src/main/res/layout/activity_bank_id_verification.xml" value="0.1" />
         <entry key="middleware/newconsent/src/main/res/layout/fragment_new_consent_prompt.xml" value="0.1" />
         <entry key="middleware/newconsent/src/main/res/menu/menu_new_consent_cancel.xml" value="0.15" />
+        <entry key="middleware/onfido/src/main/res/layout/fragment_onfido_init.xml" value="0.1" />
         <entry key="middleware/profile/src/main/res/layout/activity_add_bank_account.xml" value="0.375" />
         <entry key="vipps_app/src/main/res/drawable/background_request_status_inactive.xml" value="0.3787037037037037" />
         <entry key="vipps_app/src/main/res/layout/activity_qr.xml" value="0.3351449275362319" />
         <entry key="vipps_app/src/main/res/layout/activity_settings.xml" value="0.3351449275362319" />
+        <entry key="vipps_app/src/main/res/layout/fragment_activation_code.xml" value="0.1" />
         <entry key="vipps_app/src/main/res/layout/fragment_feed.xml" value="0.1" />
         <entry key="vipps_app/src/main/res/layout/fragment_init_payment.xml" value="0.5" />
         <entry key="vipps_app/src/main/res/layout/list_item_payment_source_bank_account_with_balance.xml" value="0.3700862895493768" />
