@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".dockerignore" type="GitExclude file" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="apple-app-site-association-prod" type="JSON" />
       <mapping pattern="apple-app-site-association-uat" type="JSON" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
