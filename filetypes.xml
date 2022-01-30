@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".dockerignore" type="GitExclude file" />
-      <mapping pattern="apple-app-site-association-prod" type="JSON" />
       <mapping pattern="apple-app-site-association-uat" type="JSON" />
+      <mapping pattern="apple-app-site-association-prod" type="JSON" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="ad_auth.go" type="PLAIN_TEXT" />
       <mapping pattern="certFromTest" type="PLAIN_TEXT" />
