@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/vipps_app/src/main/res/drawable/agr_2kKEeMZ.png [vipps_root.vipps_app.main]'" />
+    <option name="defaultScopeName" value="File '…/vipps_app/src/main/res/drawable/agr_2kKEeMZ.png [vipps_root.vipps_app.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…/vipps_app/src/main/res/drawable/agr_2kKEeMZ.png [vipps_root.vipps_app.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.go</mask>
