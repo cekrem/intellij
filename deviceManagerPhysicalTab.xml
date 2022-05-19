@@ -8,10 +8,20 @@
             <value value="fa2febbb" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-10-13T09:03:59.255654Z" />
         <name value="OnePlus KB2003" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ce0917196c2d520201" />
+          </Key>
+        </key>
+        <name value="samsung SM-G950F" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

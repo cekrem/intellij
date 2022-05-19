@@ -1,5 +1,5 @@
 <templateSet group="AndroidComposePreview">
-  <template name="prev" value="@androidx.compose.ui.tooling.preview.Preview(name = &quot;Light mode&quot;, widthDp = 400, heightDp = 800, showBackground = true, backgroundColor = 0xffffff)&#10;@androidx.compose.ui.tooling.preview.Preview(name = &quot;Dark mode&quot;, widthDp = 400, heightDp = 800, uiMode = android.content.res.Configuration.UI_MODE_NIGHT_YES, showBackground = true, backgroundColor = 0x121212)&#10;@androidx.compose.runtime.Composable&#10;fun $NAME$() {&#10;$END$&#10;}" description="Create @Preview composable function" toReformat="true" toShortenFQNames="true">
+  <template name="prev" value="@androidx.compose.ui.tooling.preview.Preview(name = &quot;Light Mode&quot;, showBackground = true)&#10;@androidx.compose.ui.tooling.preview.Preview(&quot;Dark Theme&quot;, showBackground = true, uiMode = android.content.res.Configuration.UI_MODE_NIGHT_YES)&#10;@androidx.compose.runtime.Composable&#10;fun Preview$NAME$() {&#10;    VippsTheme {&#10;        $NAME$$END$&#10;    }&#10;}" description="Create @Preview composable function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
