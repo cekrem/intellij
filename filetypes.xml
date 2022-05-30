@@ -1,5 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern=".dockerignore" type="GitExclude file" />
       <mapping pattern="apple-app-site-association-uat" type="JSON" />
@@ -7,8 +8,8 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="ad_auth.go" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="certFromTest" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
