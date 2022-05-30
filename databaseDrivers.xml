@@ -1,3 +1,10 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlserver.ms" dialect="AZURE">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="10.2.0" />
+    </driver>
+    <driver id="azure.ms">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="10.2.0" />
+    </driver>
+  </component>
 </application>
