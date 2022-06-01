@@ -48,6 +48,20 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="deno">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JavaScript" />
+                  <option value="JavaScriptDebugger" />
+                  <option value="com.intellij.css" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="intellij.haskell">
           <value>
             <PluginData>
