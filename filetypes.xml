@@ -6,7 +6,6 @@
       <mapping pattern=".dockerignore" type="GitExclude file" />
       <mapping pattern="apple-app-site-association-uat" type="JSON" />
       <mapping pattern="apple-app-site-association-prod" type="JSON" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
