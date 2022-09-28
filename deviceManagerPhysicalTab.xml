@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="OnePlus KB2003" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
