@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine" />
         <option value="package:mine Mixpanel Tracking" />
         <option value="package:mine " />
@@ -10,7 +11,6 @@
         <option value="package:mine tech-02" />
         <option value="package:mine vipps-1.8/1fa/payments/prepare" />
         <option value="package:mine level:error" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
