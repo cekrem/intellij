@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug" />
+        <option value="package:mine level:debug EASY_TO" />
         <option value="package:mine level:info " />
         <option value="package:mine level:info USER" />
         <option value="package:mine level:info 401" />
