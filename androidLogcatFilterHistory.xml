@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug" />
+    <option name="mostRecentlyUsed" value="package:mine level:info" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info" />
         <option value="package:mine level:debug" />
         <option value="package:mine level:debug EASY_TO" />
         <option value="package:mine level:info " />
@@ -22,7 +23,6 @@
         <option value="package:mine EASY_TO_FIND" />
         <option value="package:mine tech-02" />
         <option value="package:mine vipps-1.8/1fa/payments/prepare" />
-        <option value="package:mine level:error" />
       </list>
     </option>
   </component>
