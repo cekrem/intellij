@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:no.dnb.vipps.uat.debug OrientationListener ini" />
+    <option name="mostRecentlyUsed" value="package:no.dnb.vipps.uat.debug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:no.dnb.vipps.uat.debug" />
         <option value="package:no.dnb.vipps.uat.debug OrientationListener ini" />
         <option value="package:no.dnb.vipps.uat.debug " />
         <option value="package:no.dnb.vipps.uat.debug collected:" />
@@ -22,7 +23,6 @@
         <option value="package:mine benefit" />
         <option value="package:mine level:error " />
         <option value="package:mine VIPPS_LOGIN:" />
-        <option value="package:mine level:debug VIPPS_LOGIN:" />
       </list>
     </option>
   </component>
