@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug PaymentSourceState" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug state object" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug state object" />
+        <option value="package:mine level:debug ViewState" />
+        <option value="package:mine level:debug viewstate" />
+        <option value="package:mine level:debug " />
         <option value="package:mine level:debug PaymentSourceState" />
         <option value="package:mine level:error " />
         <option value="package:mine" />
@@ -19,10 +23,6 @@
         <option value="package:no.dnb.vipps.uat.debug" />
         <option value="package:no.dnb.vipps.uat.debug BenefitsView" />
         <option value="package:no.dnb.vipps.uat.debug Benefits" />
-        <option value="package:no.dnb.vipps.uat.debug Benefits navigation" />
-        <option value="package:no.dnb.vipps.uat.debug !" />
-        <option value="package:no.dnb.vipps.uat.debug stack counter" />
-        <option value="package:no.dnb.vipps.uat.debug OrientationListener ini" />
       </list>
     </option>
   </component>
