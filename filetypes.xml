@@ -7,15 +7,15 @@
       <mapping pattern=".dockerignore" type="GitExclude file" />
       <mapping pattern="apple-app-site-association-uat" type="JSON" />
       <mapping pattern="apple-app-site-association-prod" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="ad_auth.go" type="PLAIN_TEXT" />
       <mapping pattern="certFromTest" type="PLAIN_TEXT" />
-      <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping pattern="gradle-nuke" type="Shell Script" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
