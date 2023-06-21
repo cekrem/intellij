@@ -8,9 +8,8 @@
             <value value="28061FDH200457" />
           </Key>
         </key>
-        <name value="Google Pixel 7" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:5:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
