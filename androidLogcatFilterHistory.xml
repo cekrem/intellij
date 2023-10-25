@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine couponwi" />
+    <option name="mostRecentlyUsed" value="package:mine width" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine width" />
         <option value="package:mine couponwi" />
         <option value="package:mine " />
         <option value="package:mine polling" />
@@ -22,7 +23,6 @@
         <option value="package:mine medlem" />
         <option value="package:mine memberships" />
         <option value="package:mine sheetState." />
-        <option value="package:mine spotlig" />
       </list>
     </option>
   </component>
