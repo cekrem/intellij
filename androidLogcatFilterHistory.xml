@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine width" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine width" />
         <option value="package:mine couponwi" />
-        <option value="package:mine " />
         <option value="package:mine polling" />
         <option value="package:no.dnb.vipps.debug polling" />
         <option value="package:no.dnb.vipps.debug" />
