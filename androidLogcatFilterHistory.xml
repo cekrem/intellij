@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine width" />
         <option value="package:mine couponwi" />
@@ -15,7 +17,6 @@
         <option value="package:mine" />
         <option value="package:mine level:info" />
         <option value="package:mine consen" />
-        <option value="package:mine level:error " />
         <option value="package:mine level:warn premat" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:error" />
