@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine VIPPS_LOGIN_TRACE:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine VIPPS_LOGIN_TRACE:" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine level:error" />
         <option value="package:mine medlem" />
         <option value="package:mine memberships" />
-        <option value="package:mine sheetState." />
       </list>
     </option>
   </component>
