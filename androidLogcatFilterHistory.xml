@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error  package:mine level:debug dth:" />
+    <option name="mostRecentlyUsed" value="level:error  package:mine level:debug" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error  package:mine level:debug" />
         <option value="level:error  package:mine level:debug dth:" />
         <option value="level:error  package:mine level:error" />
         <option value="level:error  package:mine scroll" />
@@ -22,7 +23,6 @@
         <option value="package:no.dnb.vipps.uat.debug benefits" />
         <option value="package:no.dnb.vipps.uat.debug" />
         <option value="package:mine level:info" />
-        <option value="package:mine consen" />
       </list>
     </option>
   </component>
