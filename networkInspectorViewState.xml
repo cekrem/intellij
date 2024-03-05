@@ -14,10 +14,10 @@
       <column-info name="Response Headers" width-ratio="0.05" visible="false" />
       <column-info name="Type" width-ratio="0.16075156576200417" />
       <column-info name="Status" width-ratio="0.1544885177453027" />
-      <column-info name="Time" width-ratio="0.16075156576200417" />
+      <column-info name="Time" width-ratio="0.1617954070981211" />
       <column-info name="Request Time" width-ratio="0.05" visible="false" />
       <column-info name="Response Time" width-ratio="0.05" visible="false" />
-      <column-info name="Timeline" width-ratio="0.19102296450939457" />
+      <column-info name="Timeline" width-ratio="0.18997912317327767" />
     </columns>
   </component>
 </application>
