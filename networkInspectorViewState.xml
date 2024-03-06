@@ -2,22 +2,22 @@
   <component name="NetworkInspectorViewState">
     <columns>
       <column-info name="URL" width-ratio="0.25" visible="false" />
-      <column-info name="Name" width-ratio="0.1722338204592902" />
+      <column-info name="Name" width-ratio="0.17197452229299362" />
       <column-info name="Path" width-ratio="0.1" visible="false" />
       <column-info name="Host" width-ratio="0.1" visible="false" />
       <column-info name="Method" width-ratio="0.05" visible="false" />
       <column-info name="Scheme" width-ratio="0.05" visible="false" />
       <column-info name="Transport" width-ratio="0.05" visible="false" />
       <column-info name="Request Size" width-ratio="0.05" visible="false" />
-      <column-info name="Size" width-ratio="0.16075156576200417" />
+      <column-info name="Size" width-ratio="0.1610555050045496" />
       <column-info name="Request Headers" width-ratio="0.05" visible="false" />
       <column-info name="Response Headers" width-ratio="0.05" visible="false" />
-      <column-info name="Type" width-ratio="0.16075156576200417" />
-      <column-info name="Status" width-ratio="0.1544885177453027" />
-      <column-info name="Time" width-ratio="0.1617954070981211" />
+      <column-info name="Type" width-ratio="0.1610555050045496" />
+      <column-info name="Status" width-ratio="0.15468607825295724" />
+      <column-info name="Time" width-ratio="0.16196542311191992" />
       <column-info name="Request Time" width-ratio="0.05" visible="false" />
       <column-info name="Response Time" width-ratio="0.05" visible="false" />
-      <column-info name="Timeline" width-ratio="0.18997912317327767" />
+      <column-info name="Timeline" width-ratio="0.18926296633303002" />
     </columns>
   </component>
 </application>
