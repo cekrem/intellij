@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine teaser:" />
+    <option name="mostRecentlyUsed" value="package:mine teaser" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine teaser" />
         <option value="package:mine teaser:" />
         <option value="package:mine " />
         <option value="level:error package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine polling" />
         <option value="package:no.dnb.vipps.debug polling" />
         <option value="package:no.dnb.vipps.debug" />
-        <option value="package:no.dnb.vipps.debug  level:info " />
       </list>
     </option>
   </component>
