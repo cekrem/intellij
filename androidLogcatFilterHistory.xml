@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine level:info " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info " />
+        <option value="package:mine level:info customerclu" />
         <option value="package:mine level:warn " />
         <option value="package:mine customervoiceid" />
         <option value="package:mine level:error " />
@@ -17,12 +19,10 @@
         <option value="level:error  package:mine level:debug dth:" />
         <option value="level:error  package:mine scroll" />
         <option value="level:error  package:mine " />
-        <option value="package:mine level:info " />
         <option value="package:mine VIPPS_LOGIN_TRACE:" />
         <option value="package:mine" />
         <option value="package:mine width" />
         <option value="package:mine couponwi" />
-        <option value="package:mine polling" />
       </list>
     </option>
   </component>
